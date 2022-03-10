@@ -8,8 +8,9 @@ h2 {
 }
 .mitabla {
 	background-color: green;
-	border-right: 20%;
-	border-left: 20%;
+}
+td {
+	padding: 3px;
 }
 .lineas-impares {
 	background-color: white;
