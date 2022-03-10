@@ -2,3 +2,25 @@ body {
 	background-color: #F6F4F0;
 	font-family: sans-serif;
 }
+h2 {
+	color: green;
+	text-align: center;
+}
+.mitabla {
+	background-color: green;
+	border-right: 20%;
+	border-left: 20%;
+}
+.lineas-impares {
+	background-color: white;
+}
+.lineas-pares {
+	background-color: #dfd;
+}
+.primera-linea {
+	color: white;
+}
+.mas {
+	text-align: center;
+	color: green;
+}
