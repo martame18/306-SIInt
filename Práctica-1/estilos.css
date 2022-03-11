@@ -8,10 +8,20 @@ h2 {
 }
 .mitabla {
 	background-color: green;
+    margin: auto;
+    border-style: solid;
+    border-width: thin;
+    border-collapse: collapse;
+    border-color: green;
+
 }
-td {
-	padding: 3px;
+td, tr {
+	padding: 4px;
+    border-style: solid;
+    border-width: thin;
+    border-color: green;
 }
+
 .lineas-impares {
 	background-color: white;
 }
